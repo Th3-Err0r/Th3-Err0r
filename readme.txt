@@ -1,123 +1,73 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-==================================================================================================
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-KHRONOS is a creative pack of coming soon template pages. It's elegant and clean design makes it
-perfect for every creative people, corporate, agency or anyone who is currently building their
-site and want to show a coming soon page in a creative way. Khronos is available in three style 
-variations: static, slideshow, and particle background. It is fully responsive and
-retina ready, looks great on any screen and devices. It is also mailchimp ready and has a working
-ajax contact form.
-==================================================================================================
+<br />
 
+Hi, I'm [ Th3 Err0r ](https://th3err0r.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-LICENSE:
-KHRONOS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
-
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KHRONOS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Roboto Font (https://www.google.com/fonts/specimen/Roboto)
-
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons (http://geticonjar.com/freebies/231-micons/)
- - Micons webfont generated by ICOMOON (https://icomoon.io/)
-
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - pexels.com (https://www.pexels.com/)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - Vegas Background Slideshow (http://vegas.jaysalvat.com/)
- - Particle Ground (https://github.com/jnicol/particleground) 
- - FitVids (http://fitvidsjs.com/)
- - jQuery Validator (http://jqueryvalidation.org/)
- - ajaxchimp (https://github.com/scdoshi/jquery-ajaxchimp)
- 
-
---------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   6 hrs 5 mins    ███████████████▒░░░░░░░░░   61.83 % 
+Python       59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+C++          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  7,769 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 627 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
 

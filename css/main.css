@@ -1,7 +1,8 @@
 body{
 	background-color: black;
 	font: sans-serif;
+}
+content{
 	font-color:yellow;
-	border-color: red;
-	border-style: ridge;
+	border-color: blue;
 }

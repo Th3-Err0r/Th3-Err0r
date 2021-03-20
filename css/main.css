@@ -2,4 +2,6 @@ body{
 	background-color: black;
 	font: sans-serif;
 	font-color:yellow;
+	border-color: red;
+	border-style: ridge;
 }
